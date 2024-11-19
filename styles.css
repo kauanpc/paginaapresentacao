@@ -13,6 +13,10 @@ body {
     background-color: black;
     color: white;
 }
+.imagem_perfil{
+    height: 50%;
+    width: 35%;
+}
 .titulo-destaque{
     color: #22D4FD;
 }
@@ -40,8 +44,10 @@ body {
 }
 .apresentaçao__botao{
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
-}
+    align-items: center;
+    gap: 32px;
 .apresentaçao__botao__link{
     background-color: #22D4FD;
     width: 280px;
@@ -53,4 +59,4 @@ body {
     color: black;
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
-}
+};
