@@ -15,7 +15,8 @@ body {
 }
 .imagem_perfil{
     height: 50%;
-    width: 35%;
+    width: 40%;
+    border-radius: 19%;
 }
 .titulo-destaque{
     color: #22D4FD;
