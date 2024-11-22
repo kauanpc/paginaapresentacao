@@ -54,7 +54,7 @@ body {
     justify-content: space-between;
     align-items: center;
     gap: 32px;
-.apresentaçao__botao__link{
+    .apresentaçao__botao__link{
     
     width: 378px;
     text-align: center ;
@@ -66,4 +66,4 @@ body {
     color: white;
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
-};
+}
