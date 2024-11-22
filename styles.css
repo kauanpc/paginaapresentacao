@@ -54,8 +54,10 @@ body {
     justify-content: space-between;
     align-items: center;
     gap: 32px;
-    .apresentaçao__botao__link{
-    
+.apresentaçao__botao__link{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     width: 378px;
     text-align: center ;
     border-radius: 8px;
@@ -66,4 +68,7 @@ body {
     color: white;
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
+}
+.apresentaçao__botao__link:hover {
+    background-color: #272727;
 }
