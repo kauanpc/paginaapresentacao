@@ -69,3 +69,11 @@ body {
     width: 25%;
     border-radius: 10%;
 }
+.rodape {
+    padding: 24px;
+    color: black;
+    background-color: #22D4FD;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+}
